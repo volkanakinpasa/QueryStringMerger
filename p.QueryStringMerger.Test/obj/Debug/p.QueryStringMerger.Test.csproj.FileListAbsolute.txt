@@ -1,0 +1,7 @@
+E:\va\Solutions\GitHub\QueryStringMerger\p.QueryStringMerger.Test\bin\Debug\p.QueryStringMerger.Test.dll
+E:\va\Solutions\GitHub\QueryStringMerger\p.QueryStringMerger.Test\bin\Debug\p.QueryStringMerger.Test.pdb
+E:\va\Solutions\GitHub\QueryStringMerger\p.QueryStringMerger.Test\bin\Debug\p.QueryStringMerger.dll
+E:\va\Solutions\GitHub\QueryStringMerger\p.QueryStringMerger.Test\bin\Debug\p.QueryStringMerger.pdb
+E:\va\Solutions\GitHub\QueryStringMerger\p.QueryStringMerger.Test\obj\Debug\p.QueryStringMerger.Test.csprojResolveAssemblyReference.cache
+E:\va\Solutions\GitHub\QueryStringMerger\p.QueryStringMerger.Test\obj\Debug\p.QueryStringMerger.Test.dll
+E:\va\Solutions\GitHub\QueryStringMerger\p.QueryStringMerger.Test\obj\Debug\p.QueryStringMerger.Test.pdb
